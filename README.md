@@ -1,4 +1,4 @@
-## Chat Application README
+## PythonChatApp README
 
 ### Overview
 
